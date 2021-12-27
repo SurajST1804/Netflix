@@ -1,0 +1,32 @@
+#sec4{
+    color: #fff;
+    width: 100%;
+    background-color: black;
+    height: 450px;
+    margin-top: 10px;
+}
+
+#sec4left{
+    width: 50%;
+    float: left;
+    padding-left: 200px;
+    margin-top: 180px;
+    /* 555 417 */
+}
+
+#sec4left h1{
+    font-size: 44px;
+}
+
+#sec4left h3{
+    font-size: 25px;
+    margin-top: 25px;
+    line-height: 1.2;
+}
+
+#sec4right img{
+    width:555px;
+    height:417px;
+    margin-left: 20px;
+    margin-top: 35px;
+}

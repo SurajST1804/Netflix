@@ -1,0 +1,117 @@
+
+
+.bgimage{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/5dd45df7-33f1-4274-97ea-e9c6aca69dad/ed1cb962-411d-4e43-bad2-33f07ae8e341/IN-en-20211108-popsignuptwoweeks-perspective_alpha_website_large.jpg"); 
+    /* margin-bottom: 2px solid crimson; */
+}
+
+.sec1{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to top,rgba(0,0,0,.8) 0,rgba(0,0,0,0) 60%,rgba(0,0,0,.8) 100%);
+    /* padding: -10px; */
+}
+.Header{
+    display: flex;
+    width: 92%;
+    margin: 0 auto;
+    align-items: center;
+    height: 90px;
+    /* margin-top: 30px; */
+}
+
+ .Header img{
+    /* margin-left: 40px; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 160px;
+    height: 80px;
+    margin-top: 20px;
+} 
+
+
+
+.Header ul{
+    display: flex;
+    flex-basis: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    /* margin-right: 50px; */
+    /* padding: 20px; */
+}
+
+.Header ul li a{
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.Header ul li .english{
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #aaa;
+    /* height: 35px;
+    width: 100px; */
+    padding: 5px 10px;
+    margin-right: 20px;
+    border-radius: 3px;
+}
+
+.Header ul li .signin{
+    color:#fff;
+    background-color: #E50914;
+    padding: 8px 10px;
+    border-radius: 3px;
+}
+
+.content1{
+    color: #fff;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* padding: 40px 230px; */
+}
+
+.content1 h1{
+    font-size: 70px;
+    /* display: flex;
+    align-items: center; */
+    margin-top: 150px;
+    /* padding-left: 100px; */
+}
+
+.content1 h2{
+    /* display: flex;
+    align-items: center; */
+    /* padding-left: 100px; */
+    font-size: 28px;
+    margin-top: 10px;
+    
+}
+
+.content1 h4{
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.content1 div input{
+    margin-top: 15px;
+    width: 60%;
+    height: 70px;
+    padding-left: 10px;
+
+}
+
+.content1 div button{
+    height: 65px;
+    width: 25%;
+    background-color: #E30813;
+    color: #fff;
+    font-size: 20px;
+    border:none;
+
+    /* margin-top: 15px; */
+}

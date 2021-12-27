@@ -1,0 +1,36 @@
+#sec3{
+    width: 100%;
+    height: 550px;
+    margin-top: 10px;
+    background-color: black;
+    /* width: 70%;
+    margin: 0 auto; */
+    padding: 40px 45px;
+}
+#sec3left{
+    width: 50%;
+    float: left;
+}
+#sec3left img{
+    width: 505px;
+    height: 379px;
+    margin-left: 110px;
+
+}
+
+#sec3right{
+    color:#fff;
+    /* display: flex; */
+    margin-right: 200px;
+    margin-top: 130px;
+}
+
+#sec3right h1{
+    font-size: 44px;
+}
+
+#sec3right h3{
+    margin-top: 20px;
+    font-size: 24px;
+    line-height: 1.3;
+}
